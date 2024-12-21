@@ -1,5 +1,5 @@
-#  Mean and variance of a discrete  distribution
-
+## EXP-01  Mean and variance of a discrete  distribution
+## DATE: 28-09-2024
 
 # Aim : 
 
@@ -49,9 +49,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-
+## DEVELOPED BY : AMIRITHA S.R.
+## REGISTER NUMBER : 24900271
 
 # Output : 
+![Screenshot 2024-12-21 132531](https://github.com/user-attachments/assets/638ab8b8-fd3d-4338-9e69-02f733ee3407)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
